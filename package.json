@@ -1,0 +1,15 @@
+{
+	"name": "back-end-development-and-api",
+	"author": "Remy",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ninganzaremy/Back-End-Development-and-API.git"
+	}
+}
